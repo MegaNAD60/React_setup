@@ -1,13 +1,17 @@
 # **QUICK GUIDE IN SETTING REACT APP READY FOR DEVELOPMENT**
-React is one of the most widely used Frontend JavaScript libraries in creating software interface. React offers several tools and UIs that makes it standout and popular in today's tech industry. Therefore, it's a great feat to be a React developer. If you are ready to start a career as a React developer, this guide will put you through as it explains what React is benefits of React, and steps in setting up React app ready for development.
+React is one of the most widely used JavaScript libraries in creating software interface. React offers several tools that makes it standout and popular in today's software development industry. Therefore, it's a great feat to be a React developer. If you are ready to start a career as a React developer, this guide will put you through as it explains what React is, benefits of React, and steps in setting up React app ready for development.
 ## **What is React?**
-React is a JavaScript library used in creating software interface. React offers robust UIs and tools in building software interface and as a single page application, React proves to be efficient and effective. React apps are built with components which are independent and reusable, thereby enabling quick software development.
+React is a JavaScript library used in developing interactive and robust user interface. In other words, React can be used to develop **Single Page Applications (SPA)** using independent and reusable components, thereby increasing her readability and maintainability.
+
+React is founded and maintained by Facebook now known as Meta. React Native is used to build iOS and Andriod mobile applications.
 ## **Benefits of React**
-Statistically, React is one of the most widely used JavaScript libraries. This is because React offers several and more advance benefits compare to other JavaScript libraries and frameworks. Let's look at some of the benefits of React
-1. **Clean codes:** The structural pattern of React makes her codes easy to read, understand and maintain. For instance, React is built with components which are independent and reusable, thereby making it easy to code and maintain.
-2. **Fewer codes:** React offers UIs and tools that help developers write few lines of codes that have great effect. These UIs and tools include components and hooks such as the useState, useEffect, useRef hooks amongst others. Also, the reusability structure of React components reduces the amount of codes to be written.
-3. **Reusability:** React apps are built using components, which are reusable. In other words, React componenets can be use in several spot thereby reducing the amount of codes to be written, making it easy to understand and maintain.
-4. **Testing and Debugging:** React provides developers the medium and method to test and debug their codes, to ensure the effectiveness and efficiency of software. One of such method includes **unit test**. Developers can conduct unit test to ensure their program work correctly as expected.
+React is one of the most widely used JavaScript libraries. This is because React offers several and more advance benefits compare to other JavaScript libraries and frameworks. Let's look at some of the benefits of React
+1. **Clean codes:** The structural pattern of React makes her codes easy to read, understand and maintain. For instance, React applications are developed using independent and reusable components which simplify its readabilty and maintainability.
+2. **Fewer codes:** React components are reusable thereby reducing the amounts of codes to be written.
+3. **Reusability:** React apps are built using reusable components. This means that React componenets can be use in various part of an application.
+4. **Testing and Debugging:** React provides developers with tools to test and debug their codes and ensure the effectiveness and efficiency of software. One of such tool includes **unit test**. Developers can conduct unit test to ensure their program work correctly as expected.
+5. **Accuracy:** Just as every programming languages and frameworks, React apps produces accurate outputs.
+6. **Mobile Applications:** React can be used to develop iOS and andriod mobile applications using React Native.
 ## **Steps in setting up React Applications**
 This section will guide you through the steps in setting up your React application ready for development.
 ### **Prerequisite:**
@@ -43,4 +47,4 @@ The above command start development server and auto open your defualt browser. T
 
 ![image](/images/react.png)
 
-In conclusion, we have achieved a great step in setting up a React app ready for development. We also explore what React means and its benefits. Congratulations on our progress. Explore other tools nd UIs in React to grow and perfect your skills.
+In conclusion, we have achieved a great step in setting up a React app ready for development. We also explore what React means and its benefits. Congratulations on our progress. Explore other tools and UIs in React to grow and perfect your skills.
